@@ -10,7 +10,7 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "#00000"
+        "$value": "#e3faf5"
       },
       "100": {
         "$extensions": {
@@ -70,7 +70,7 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "#01a38c"
+        "$value": "#ffff"
       },
       "700": {
         "$extensions": {
